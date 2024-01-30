@@ -1,6 +1,4 @@
-### Opa!
-
-# Felipe Moura Ribeiro
+# Opa!, sou Felipe Moura Ribeiro!
 
 Bem-vindo ao meu perfil do GitHub! 👋
 
@@ -15,6 +13,9 @@ Contribuo para diversos projetos de código aberto e estou sempre aberto para co
 
 - Linguagens de Programação: [C, Java, Html, Css, JS, Sql]
 <!-- - Ferramentas e Tecnologias: [Lista de Ferramentas] -->
+
+
+![homer](https://github.com/felipemoura6/felipemoura6/assets/122798291/31d9fc64-0268-4299-b674-c6362d1eed46)
 
 ## Contato
 
