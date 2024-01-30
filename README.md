@@ -1,4 +1,37 @@
-### Hi there 👋
+### Opa!
+
+# Felipe Moura Ribeiro
+
+Bem-vindo ao meu perfil do GitHub! 👋
+
+Me chamo Felipe, iniciando na área de TI. Aqui você encontrará uma variedade de projetos, desde pequenos scripts até projetos mais complexos. Fique à vontade para explorar e contribuir!
+
+## Projetos em Destaque
+
+- **[Nome do Projeto 1](link_do_projeto1):** Breve descrição do projeto.
+
+- **[Nome do Projeto 2](link_do_projeto2):** Breve descrição do projeto.
+
+## Contribuições
+
+Contribuo para diversos projetos de código aberto e estou sempre aberto para colaborações. Sinta-se à vontade para verificar meus repositórios e enviar pull requests, sugestões ou relatar problemas.
+
+## Habilidades
+
+- Linguagens de Programação: [C, Java, Html, Css, JS, Sql]
+<!-- - Ferramentas e Tecnologias: [Lista de Ferramentas] -->
+
+## Contato
+
+- [LinkedIn]([link_para_o_seu_linkedin](https://www.linkedin.com/in/felipe-moura-ribeiro-571b84232/))
+- [Gmail]: felipemourarb6@gmail.com
+
+
+## Agradecimentos
+
+Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato. Espero que encontre algo interessante aqui.
+
+
 
 <!--
 **felipemoura6/felipemoura6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
