@@ -9,16 +9,6 @@ Me chamo Felipe, iniciando na área de TI (front-end e back-end). Aqui você enc
 
 Contribuo para diversos projetos de código aberto e estou sempre aberto para colaborações. Sinta-se à vontade para verificar meus repositórios e enviar pull requests, sugestões ou relatar problemas.
 
-<div>
-  <div style="float: left; width: 50%;">
-    Seu texto alinhado à esquerda aqui.
-  </div>
-  
-  <div style="float: right; width: 50%;">
-    <img src="link_para_seu_gif_animado" alt="GIF Animado" width="400" />
-  </div>
-</div>
-
 
 ## Linguagens de Programação:
 
