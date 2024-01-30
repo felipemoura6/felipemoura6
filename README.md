@@ -18,7 +18,7 @@ Contribuo para diversos projetos de código aberto e estou sempre aberto para co
 
 ## Contato
 
-- [LinkedIn]([link_para_o_seu_linkedin](https://www.linkedin.com/in/felipe-moura-ribeiro-571b84232/))
+- [LinkedIn](https://www.linkedin.com/in/felipe-moura-ribeiro-571b84232/)
 - [Gmail]: felipemourarb6@gmail.com
 
 
