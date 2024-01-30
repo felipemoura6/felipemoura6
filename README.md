@@ -6,11 +6,6 @@ Bem-vindo ao meu perfil do GitHub! 👋
 
 Me chamo Felipe, iniciando na área de TI. Aqui você encontrará uma variedade de projetos, desde pequenos scripts até projetos mais complexos. Fique à vontade para explorar e contribuir!
 
-## Projetos em Destaque
-
-- **[Nome do Projeto 1](link_do_projeto1):** Breve descrição do projeto.
-
-- **[Nome do Projeto 2](link_do_projeto2):** Breve descrição do projeto.
 
 ## Contribuições
 
