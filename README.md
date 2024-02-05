@@ -14,9 +14,7 @@ Contribuo para diversos projetos de código aberto e estou sempre aberto para co
 
 - C
 - Java
-- Html
-- Css
-- JS
+- Html / Css / JS
 - Sql
 <!-- - Ferramentas e Tecnologias: [Lista de Ferramentas] -->
 
