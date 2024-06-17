@@ -15,7 +15,7 @@ Contribuo para diversos projetos de código aberto e estou sempre aberto para co
 - C
 - Java
 - Front-end: Html / Css / JS / React / CSS e TailwindCSS
-- Sql
+- Back-end: SQL
 <!-- - Ferramentas e Tecnologias: [Lista de Ferramentas] -->
 
 <div align="center">
