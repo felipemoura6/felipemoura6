@@ -7,7 +7,7 @@ Me chamo Felipe, iniciando na área de TI (front-end e back-end). Aqui você enc
 
 ## Contribuições
 
-Contribuo para diversos projetos de código aberto e estou sempre aberto para colaborações. Sinta-se à vontade para verificar meus repositórios e enviar pull requests, sugestões ou relatar problemas.
+Sinta-se à vontade para verificar meus repositórios e enviar pull requests, sugestões ou relatar problemas.
 
 
 ## Linguagens de Programação:
