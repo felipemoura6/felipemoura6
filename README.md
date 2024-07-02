@@ -13,10 +13,9 @@ Sinta-se à vontade para verificar meus repositórios e enviar pull requests, su
 ## Linguagens de Programação:
 
 - C
-- Java
-- Front-end: Html / Css / JS / React / CSS e TailwindCSS
-- Back-end: SQL
-<!-- - Ferramentas e Tecnologias: [Lista de Ferramentas] -->
+- Javascript & Typescript
+- Front-end: HTML5 / CSS3 / ReactJS / TailwindCSS
+- Back-end: SQL / NodeJs & Express / Django
 
 <div align="center">
   <img src="https://github.com/felipemoura6/felipemoura6/assets/122798291/31d9fc64-0268-4299-b674-c6362d1eed46" alt="GIF Animado" width="100" />
