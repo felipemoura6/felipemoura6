@@ -12,7 +12,6 @@ Sinta-se à vontade para verificar meus repositórios e enviar pull requests, su
 
 ## Linguagens de Programação:
 
-- C
 - Javascript & Typescript
 - Front-end: HTML5 / CSS3 / ReactJS / TailwindCSS
 - Back-end: SQL / NodeJs & Express / Django
