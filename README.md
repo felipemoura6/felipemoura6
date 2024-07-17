@@ -48,29 +48,27 @@ Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
   
 ## Languages and Technologies:
  
-
+- C / HTML5 / CSS3 / JavaScript / TypeScript / Python / SQL
+  
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,ts,python,c)](https://skillicons.dev)
 
-- C / HTML5 / CSS3 / JavaScript / TypeScript / Python / SQL
 
 
-- <!-- Frameworks and Libraries -->
-<h2 style="font-size: 24px;">Frameworks and Libraries</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,prisma,nextjs,nodejs" alt="My Frameworks" />
-  </a>
-</p>
 
-<!-- Tools -->
-<h2 style="font-size: 24px;">Tools</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,mysql,arduino,matlab" alt="My Tools" />
-  </a>
-</p>
+# Frameworks and Libraries:
+
+- React / Vite / TailwindCSS / Prisma / NextJS / NodeJS
+
+[![My Frameworks](https://skillicons.dev/icons?i=react,vite,tailwind,prisma,nextjs,nodejs)](https://skillicons.dev)
+
 
   
+## Tools:
+
+- Git / GitHub / Postman / Mysql / Arduino / Matlab
+  
+[![My Tools](https://skillicons.dev/icons?i=git,github,postman,mysql,arduino,matlab)](https://skillicons.dev)
+
 
 </div>
 
