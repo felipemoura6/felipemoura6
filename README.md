@@ -12,25 +12,6 @@ Bem-vindo ao meu perfil do GitHub! 👋
 Me chamo Felipe, iniciando na área de TI (front-end e back-end). Aqui você encontrará uma variedade de projetos, desde pequenos scripts até projetos mais complexos. Fique à vontade para explorar e contribuir!
 
 
-## Contribuições
-
-Sinta-se à vontade para verificar meus repositórios e enviar pull requests, sugestões ou relatar problemas.
-
-
-## Languages and Technologies:
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,vite,tailwind)](https://skillicons.dev)
-- Javascript & Typescript
-- Front-end: HTML5 / CSS3 / ReactJS / TailwindCSS
-- Back-end: SQL / NodeJs & Express / Django
-
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,prisma)](https://skillicons.dev)
-
-<div align="center">
-  <img src="https://github.com/felipemoura6/felipemoura6/assets/122798291/31d9fc64-0268-4299-b674-c6362d1eed46" alt="GIF Animado" width="100" />
-</div>
-
 
 ## Contato
 
@@ -63,6 +44,7 @@ Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
 
 ###
 
+<div align="left">
   
 ## Languages and Technologies:
  
@@ -72,16 +54,22 @@ Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
 - C / HTML5 / CSS3 / JavaScript / TypeScript / Python / SQL
 
 
-# Frameworks and Libraries
-[![My Frameworks](https://skillicons.dev/icons?i=react,vite,tailwind,prisma,nextjs,nodejs)](https://skillicons.dev)
+- <!-- Frameworks and Libraries -->
+<h2 style="font-size: 24px;">Frameworks and Libraries</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,prisma,nextjs,nodejs" alt="My Frameworks" />
+  </a>
+</p>
 
-- React / Vite / TailwindCSS / Prisma / NextJS / NodeJS
+<!-- Tools -->
+<h2 style="font-size: 24px;">Tools</h2>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,mysql,arduino,matlab" alt="My Tools" />
+  </a>
+</p>
 
-  
-## Tools
-[![My Tools](https://skillicons.dev/icons?i=git,github,postman,mysql,arduino,matlab)](https://skillicons.dev)
-
-- Git / GitHub / Postman / Mysql / Arduino / Matlab
   
 
 </div>
