@@ -1,24 +1,5 @@
-<h1 align="center"> Me chamo Felipe Moura Ribeiro! </h1>
-
-
-Bem-vindo ao meu perfil do GitHub! 👋
-
-Me chamo Felipe, iniciando na área de TI (front-end e back-end). Aqui você encontrará uma variedade de projetos, desde pequenos scripts até projetos mais complexos. Fique à vontade para explorar e contribuir!
-
-
-
-
-## Agradecimentos
-
-Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato. Espero que encontre algo interessante aqui.
-
-
-
-
-
-
-
 <h2 align="left">Hi 👋! My name is Felipe Moura Ribeiro</h2>
+Welcome to my repositories. My name is Felipe, I am 23 years old, and I am studying Automation and Control Engineering at CEFET-MG, Brazil. I'm starting my journey in the dev world, studying front-end and back-end technologies.
 
 ###
 
