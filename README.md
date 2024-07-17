@@ -83,3 +83,5 @@ Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
 
 <br clear="both">
 
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+
