@@ -63,9 +63,9 @@ Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
 
 ###
 
-<div align="left">
-
-<h1>Languages and Technologies:</h1> 
+  
+## Languages and Technologies:
+ 
 
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,ts,python,c)](https://skillicons.dev)
 
