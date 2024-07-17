@@ -12,9 +12,11 @@ Sinta-se à vontade para verificar meus repositórios e enviar pull requests, su
 
 ## Linguagens de Programação:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,vite,tailwind)](https://skillicons.dev)
 - Javascript & Typescript
 - Front-end: HTML5 / CSS3 / ReactJS / TailwindCSS
 - Back-end: SQL / NodeJs & Express / Django
+[![My Skills](https://skillicons.dev/icons?i=mysql,prisma)](https://skillicons.dev)
 
 <div align="center">
   <img src="https://github.com/felipemoura6/felipemoura6/assets/122798291/31d9fc64-0268-4299-b674-c6362d1eed46" alt="GIF Animado" width="100" />
