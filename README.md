@@ -65,14 +65,14 @@ Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
 
 <div align="left">
 
-## Languages and Technologies:
+# Languages and Technologies:
 
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,react,ts,vite,tailwind,python,c)](https://skillicons.dev)
 
 - C / HTML5 / CSS3 / JavaScript / TypeScript / Python / SQL
 
 
-## Frameworks and Libraries
+# Frameworks and Libraries
 [![My Frameworks](https://skillicons.dev/icons?i=react,vite,tailwind,prisma,nextjs,nodejs)](https://skillicons.dev)
 
 - React / Vite / TailwindCSS / Prisma / NextJS / NodeJS
