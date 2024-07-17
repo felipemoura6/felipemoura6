@@ -1,11 +1,5 @@
 <h1 align="center"> Me chamo Felipe Moura Ribeiro! </h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Meu GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/felipemoura6/github-readme-stats&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoura6&hide_progress=true&theme=radical)
-
 
 Bem-vindo ao meu perfil do GitHub! 👋
 
@@ -30,7 +24,7 @@ Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=felipemoura6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipemoura6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemoura6&hide_progress=true&theme=radical)" height="150" alt="languages graph"  />
 </div>
 
 ###
