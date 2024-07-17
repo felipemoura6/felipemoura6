@@ -83,5 +83,5 @@ Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
 
 <br clear="both">
 
-![snake gif](https://github.com/felipemoura6/felipemoura6/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/felipemoura6/felipemoura6/blob/output/github-contribution-grid-snake.gif&theme=dracula)
 
