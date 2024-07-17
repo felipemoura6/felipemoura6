@@ -59,13 +59,13 @@ Agradeço por visitar meu perfil! Sinta-se à vontade para explorar meus projeto
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 
 ###
 
 <div align="left">
 
-# Languages and Technologies:
+<h1>Languages and Technologies:</h1> 
 
 [![My Languages](https://skillicons.dev/icons?i=js,html,css,ts,python,c)](https://skillicons.dev)
 
