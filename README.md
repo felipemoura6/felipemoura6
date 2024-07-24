@@ -27,9 +27,9 @@ Welcome to my repositories. My name is Felipe, I am 23 years old, and I am study
 
 # Frameworks and Libraries:
 
-- React / Vite / TailwindCSS / Prisma / NextJS / NodeJS
+- React / Vite / TailwindCSS / Prisma / NextJS / NodeJS / Express
 
-[![My Frameworks](https://skillicons.dev/icons?i=react,vite,tailwind,prisma,nextjs,nodejs)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=react,vite,tailwind,prisma,nextjs,nodejs,expressjs)](https://skillicons.dev)
 
 
   
