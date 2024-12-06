@@ -35,9 +35,9 @@ Welcome to my repositories. My name is Felipe, I am 23 years old, and I am study
   
 ## Tools:
 
-- Git / GitHub / Postman / Mysql / Arduino / Matlab
+- GitHub / Postman / Mysql / Arduino / Matlab
   
-[![My Tools](https://skillicons.dev/icons?i=git,github,postman,mysql,arduino,matlab)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,postman,mysql,arduino,matlab)](https://skillicons.dev)
 
 
 </div>
