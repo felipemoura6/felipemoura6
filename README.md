@@ -25,7 +25,7 @@ Welcome to my repositories. My name is Felipe, I am 23 years old, and I am study
 
 
 
-# Frameworks and Libraries:
+# Familiaridade com Frameworks and Libraries:
 
 - React / Vite / TailwindCSS / NextJS / NodeJS / Express
 
