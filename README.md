@@ -18,9 +18,9 @@ Welcome to my repositories. My name is Felipe, I am 23 years old, and I am study
   
 ## Languages and Technologies:
  
-- C / HTML5 / CSS3 / JavaScript / TypeScript / Python / SQL
+- HTML5 / CSS3 / JavaScript / TypeScript / Python / C / SQL
   
-[![My Languages](https://skillicons.dev/icons?i=js,html,css,ts,python,c)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=html,css,js,ts,python,c)](https://skillicons.dev)
 
 
 
